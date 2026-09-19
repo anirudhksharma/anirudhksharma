@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="assets/about.png" alt="Anirudh Sharma" width="720">
-
-</div>
-
-&nbsp;
+# Anirudh Sharma
 
 I'm a machine learning engineer who likes being close to the metal — training models, wiring up agents, and building the unglamorous data plumbing that makes any of it work in production. I came to AI through mathematics and never really left; the parts I enjoy most are where a clean idea survives contact with messy real-world data.
 
