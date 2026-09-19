@@ -1,10 +1,8 @@
 <div align="center">
 
-# Anirudh Sharma
+<img src="assets/about.png" alt="Anirudh Sharma — Machine Learning Engineer" width="720">
 
-`whoami` &rarr; **Machine Learning Engineer** &middot; Generative AI &middot; LLM Agents &middot; Data Engineering
-
-M.S. Computer Science @ Stevens Institute of Technology &middot; New Jersey
+<br>
 
 <a href="https://www.anirudhksharma.com"><img src="https://img.shields.io/badge/Portfolio-0b0b0b?style=flat-square&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/anirudh-sharma-650b93252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
@@ -12,12 +10,6 @@ M.S. Computer Science @ Stevens Institute of Technology &middot; New Jersey
 <a href="mailto:anirudhksharma02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 
 </div>
-
----
-
-I build **end-to-end AI solutions** &mdash; from feature engineering and model evaluation to LLM-agent automation and production data pipelines. My path into AI started with a love for mathematics, and I still think that's where the real work is: ML as the point where theory meets measurable impact. I work best close to the machine, and I'm happiest shipping things.
-
-<sub>My portfolio is a working terminal &mdash; take a look: <b><a href="https://www.anirudhksharma.com">anirudhksharma.com</a></b></sub>
 
 ### Certifications
 ![AWS ML Engineer Associate](https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
