@@ -1,31 +1,25 @@
 # Anirudh Sharma
 
-I'm a machine learning engineer who likes being close to the metal — training models, wiring up agents, and building the unglamorous data plumbing that makes any of it work in production. I came to AI through mathematics and never really left; the parts I enjoy most are where a clean idea survives contact with messy real-world data.
+Machine learning engineer. I build models, the agents that use them, and the data pipelines underneath. Just finished my M.S. at Stevens and I'm currently doing LLM-agent automation at a nonprofit.
 
-Right now I'm building LLM-agent automation at a nonprofit, and I just finished my M.S. at Stevens, where my research was on making tool-using agents actually reliable. My portfolio is a terminal you can poke around in: **[anirudhksharma.com](https://www.anirudhksharma.com)**.
+Portfolio (it's a terminal you can type into): [anirudhksharma.com](https://www.anirudhksharma.com)
 
-&nbsp;
+### Projects
 
-### What I've been building
+**FraudSight AI.** Agentic pipeline that checks images and PDFs for AI-generated artifacts and document forgery. A vision agent does the forensic pass, then Qwen-VL-Plus, DeepSeek R1, and GLM 4.6 vote on the result. 72% accuracy on real claims; prompt routing cut token cost 50-75%.
 
-**FraudSight AI** — an agentic pipeline that reads images and PDFs for AI-generated artifacts and document forgery. A vision agent does the forensic pass (physics that doesn't add up, "melting" structure, off fonts), then three models — Qwen-VL-Plus, DeepSeek R1, GLM 4.6 — vote on the verdict. 72% accuracy on real claims, and a routing trick that cut token cost by half to three-quarters.
+**Agent reliability (Stevens research).** Worked on ShoppingBench, a 2.5M-product agent benchmark ([arXiv:2508.04266](https://arxiv.org/abs/2508.04266)). Adding strictly-typed tool schemas raised Qwen-2.5-72B's format score from 0.47 to 0.72 and removed all parameter hallucinations, at the cost of extra retries I traced in an ablation. Built a Streamlit dashboard to compare runs.
 
-**Agent reliability research at Stevens** — I worked on ShoppingBench ([arXiv:2508.04266](https://arxiv.org/abs/2508.04266)), a 2.5M-product agent benchmark. Forcing strictly-typed tool schemas onto Qwen-2.5-72B took its format score from 0.47 to 0.72 and killed 100% of the parameter hallucinations, at the cost of some retry friction I measured in an ablation. Shipped a Streamlit dashboard so the trade-offs were visible, not just in a table.
+**Diabetic retinopathy.** EfficientNet-B0 on 143K retinal images (~22 GB), 87% balanced accuracy. A PySpark Random Forest baseline on a small cluster cut training time by more than half.
 
-**Diabetic retinopathy classification** — EfficientNet-B0 on 143K retinal images (~22 GB), 87% balanced accuracy. The interesting part was the infra: a PySpark Random Forest baseline across a small cluster cut training time by more than half.
+**Adversarial robustness.** FGSM attacks on CIFAR-10. A CNN dropped from 78.6% to about 2.3% accuracy under a small perturbation; min-max adversarial training got most of it back.
 
-**Adversarial robustness** — FGSM attacks on CIFAR-10, watching a CNN fall from 78.6% to ~2.3% accuracy under a tiny perturbation, then clawing robustness back with min-max adversarial training. A good lesson in the gap between benchmark accuracy and worst-case behavior.
+**Jaguar re-ID (in progress).** Matching individual jaguars across camera-trap photos for a Kaggle conservation challenge.
 
-Wildlife side project in progress: re-identifying individual jaguars from camera-trap photos for a Kaggle conservation challenge.
+### Stack
 
-&nbsp;
+Python, C++. PyTorch and TensorFlow. PySpark, Pandas, Polars when data outgrows one box. AWS, Azure, FastAPI, Postgres, Elasticsearch. MCP for agent tooling lately. AWS Certified Machine Learning Engineer, Associate.
 
-### The stack I reach for
-
-Python and C++ for the work, PyTorch and TensorFlow for models, PySpark / Pandas / Polars when the data outgrows one machine. AWS and Azure for infra, FastAPI when something needs to be served, Elasticsearch and Postgres for storage, and MCP lately for wiring agents into real tools. **AWS Certified Machine Learning Engineer – Associate.**
-
-&nbsp;
-
-### Elsewhere
+### Links
 
 [Portfolio](https://www.anirudhksharma.com) · [LinkedIn](https://www.linkedin.com/in/anirudh-sharma-650b93252/) · [Medium](https://medium.com/@anirudhksharma02) · anirudhksharma02@gmail.com
