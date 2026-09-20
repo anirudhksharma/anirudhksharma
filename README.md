@@ -2,7 +2,7 @@
 
 Machine learning engineer. I train and fine-tune models, wire up the agents that use them, and build the data pipelines underneath. Just finished my M.S. at Stevens and I'm currently doing LLM-agent automation at a nonprofit.
 
-Portfolio (it's a terminal you can type into): [anirudhksharma.com](https://www.anirudhksharma.com)
+Portfolio: [anirudhksharma.com](https://www.anirudhksharma.com)
 
 ### Projects
 
