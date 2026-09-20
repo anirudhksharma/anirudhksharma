@@ -14,8 +14,6 @@ Portfolio: [anirudhksharma.com](https://www.anirudhksharma.com)
 
 **Adversarial robustness.** FGSM attacks on CIFAR-10. A CNN dropped from 78.6% to about 2.3% accuracy under a small perturbation; min-max adversarial training got most of it back.
 
-**Jaguar re-ID (in progress).** Matching individual jaguars across camera-trap photos for a Kaggle conservation challenge.
-
 ### Stack
 
 Python, C++. PyTorch and TensorFlow. PySpark, Pandas, Polars when data outgrows one box. AWS, Azure, FastAPI, Postgres, Elasticsearch. MCP for agent tooling lately. AWS Certified Machine Learning Engineer, Associate.
