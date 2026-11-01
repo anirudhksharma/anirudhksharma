@@ -16,7 +16,7 @@ Portfolio: [anirudhksharma.com](https://www.anirudhksharma.com)
 
 ### Stack
 
-Python, C++. PyTorch and TensorFlow. PySpark, Pandas, Polars when data outgrows one box. AWS, Azure, FastAPI, Postgres, Elasticsearch. MCP for agent tooling lately. AWS Certified Machine Learning Engineer, Associate.
+Python, C++. PyTorch and TensorFlow. PySpark, Pandas, Polars when data outgrows one box. AWS, Azure, GCP, FastAPI, Postgres, Elasticsearch. MCP for agent tooling lately. AWS Certified Machine Learning Engineer, Associate.
 
 ### Links
 
