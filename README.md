@@ -5,7 +5,6 @@ Machine learning engineer. I train and fine-tune models, wire up the agents that
 Portfolio: [anirudhksharma.com](https://www.anirudhksharma.com)
 
 ### Projects
-
 **FraudSight AI.** Agentic pipeline that checks images and PDFs for AI-generated artifacts and document forgery. A vision agent does the forensic pass, then Qwen-VL-Plus, DeepSeek R1, and GLM 4.6 vote on the result. 72% accuracy on real claims; prompt routing cut token cost 50-75%.
 
 **Agent reliability (Stevens research).** Worked on ShoppingBench, a 2.5M-product agent benchmark ([arXiv:2508.04266](https://arxiv.org/abs/2508.04266)). Adding strictly-typed tool schemas raised Qwen-2.5-72B's format score from 0.47 to 0.72 and removed all parameter hallucinations, at the cost of extra retries I traced in an ablation. Built a Streamlit dashboard to compare runs.
