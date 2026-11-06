@@ -23,6 +23,6 @@ Python, C++. PyTorch and TensorFlow. PySpark, Pandas, Polars when data outgrows 
 [Portfolio](https://www.anirudhksharma.com) · [LinkedIn](https://www.linkedin.com/in/anirudh-sharma-650b93252/) · [Medium](https://medium.com/@anirudhksharma02) · anirudhksharma02@gmail.com
 
 
-<p align="center">
-  <img src="https://git-hub-contributions-isometric-3-d-graphs-embed-8kidqb2nt.vercel.app/api/graph?username=anirudhksharma&stats=true&credit=true"/>
+<p align = "center">
+  <img src = "https://git-hub-contributions-isometric-3-d.vercel.app/api/graph?username=anirudhksharma&stats=true&credit=true" alt = "GitHub contributions 3D graph" />
 </p>
