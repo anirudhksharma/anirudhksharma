@@ -24,5 +24,5 @@ Python, C++. PyTorch and TensorFlow. PySpark, Pandas, Polars when data outgrows 
 
 
 <p align="center">
-  <img src="https://git-hub-contributions-isometric-3-d-graphs-embed-8kidqb2nt.vercel.app/api/graph?username=anirudhksharma&theme=matrix&stats=true&credit=true" />
+  <img src="https://git-hub-contributions-isometric-3-d-graphs-embed-8kidqb2nt.vercel.app/api/graph?username=anirudhksharma&stats=true&credit=true"/>
 </p>
